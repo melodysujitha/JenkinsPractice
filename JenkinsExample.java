@@ -5,7 +5,7 @@ public class JenkinsExample {
         
 		System.out.println("Jenkis");
         
-        System.out.println("Java using for Selenium automation");
+        System.out.println("Git");
 	}
 
 }
