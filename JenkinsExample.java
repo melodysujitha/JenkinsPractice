@@ -4,8 +4,7 @@ public class JenkinsExample {
 		System.out.println("Cook");
         
 		System.out.println("Jenkins-Git");
-        
-        System.out.println("Git");
+       
 	}
 
 }
